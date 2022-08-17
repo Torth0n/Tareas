@@ -1,0 +1,16 @@
+  248  cd ..
+  249  cd templates
+  250  touch index.html
+  251  cd ..
+  252  git commit -m "Estructura de carpetas creada"
+  253  git add .
+  254  git status
+  255  git branch
+  256  git checkout tareas1
+  257  git checkout -m tareas1
+  258  git branch tareas1
+  259  git checkout tareas1
+  260  git add .
+  261  git branch
+  262  git commit -m "Estructura de carpetas creada"
+  263  touch command_history.txt
